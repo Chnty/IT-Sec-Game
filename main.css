@@ -1,5 +1,5 @@
 body{
-	background-color:blue;
+	background-color:light-grey;
 }
 
 header{
@@ -14,5 +14,5 @@ nav{
         top: 0;
         width: 250px;
 		color: yellow;
-		background-color: red;
+		background-color: yellow;
 }
